@@ -1,0 +1,19 @@
+#top{
+    border-style: solid;
+    border-color: coral;
+    border-width: 6px;
+    width: 50%;
+    margin-left:80px;
+}
+
+
+#bottom{
+    border-style: dotted;
+    border-color: coral;
+    border-width: 10px;
+    width: 50%;
+    margin-left:150px;
+}
+h1{
+    font-family:'Xanh Mono', monospace;
+}

@@ -1,0 +1,61 @@
+/* for styling our html pages */
+/* extension .css */
+/*
+         tagname or id or classname{
+         property:value;
+}
+
+*/
+
+body{
+    background-image:url("ipl2020.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+h1{
+    color:brown;
+    text-align: center;
+}
+
+/* color chose from google color picker;rgb value is copied*/
+#team{
+    color:rgb(48,142,179);
+}
+
+div{
+    border-style: dotted;
+    border-color: tomato;
+    border-width: 5px;
+    background-color: yellowgreen;
+    width: 40%;
+    margin:auto;
+
+    
+
+}
+
+#mi{
+    color:red;
+    border-style: solid;
+    border-color:brown;
+    border-width: 5px;
+    background-color: aqua;
+}
+
+.team{
+    border-style: solid;
+    border-color:blueviolet;
+    border-width:5px;
+    background-color: crimson;
+}
+
+/* styling the h3 tag next to div */
+div h3{
+    text-align: center;
+}
+
+
+

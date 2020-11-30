@@ -1,0 +1,16 @@
+/* my first css styling */
+
+
+h1{
+    color:red;
+    font-family: fantasy;
+}
+
+h2{
+    color:blue;
+    font-family: cursive;
+}
+
+body{
+    background-color: burlywood;
+}

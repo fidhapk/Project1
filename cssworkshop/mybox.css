@@ -1,0 +1,58 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-align: center;
+    
+}
+#one{
+    width: 10%;
+    height: 40%;
+    background-color: blue;
+   
+
+
+}
+#two{
+    width: 10%;
+    height: 40%;
+    background-color:darkturquoise;
+    
+   
+
+}
+#three{
+    width: 10%;
+    height: 40%;
+    background-color:aqua;
+   
+
+
+}
+#four{
+    width: 10%;
+    height: 40%;
+    background-color:pink;
+    
+    
+
+
+}
+#five{
+    width: 10%;
+    height: 40%;
+    background-color:yellow;
+   
+   
+}
+div{
+    float:left;
+    margin-left:15px;
+    margin-top:40px;
+    
+    
+    
+    
+}
+#main{
+    margin-left: 30%;
+}
